@@ -1,1 +1,1 @@
-# Flame
+# Auto Magic
